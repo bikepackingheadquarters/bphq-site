@@ -1,0 +1,6 @@
+title: Bikepacking Headquarters
+url: https://bikepackingheadquarters.com
+baseurl: ""   # keep empty since you’re using the apex domain
+markdown: kramdown
+theme: null   # we’ll use our own layout
+plugins: []   # none needed
